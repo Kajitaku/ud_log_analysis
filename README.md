@@ -18,7 +18,7 @@ If you don't already have Git installed, download Git from [git-scm.com](https:/
 # Set up
 **Virtual Machine**
 1. Run `git clone https://github.com/udacity/fullstack-nanodegree-vm.git` to get virtual machine environment.
-2. `cd fullstack-nanodegree-vm`
+2. `cd fullstack-nanodegree-vm/vagrant`
 3. `vagrant up` to lunch a virtual machine.
 
 **Database**
